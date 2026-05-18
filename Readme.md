@@ -34,7 +34,7 @@ Featuring a fully interactive **Desktop GUI**, the engine processes both vertica
 
 ## 📂 Project Structure
 ```text
-├── process_evidence.py   # Main GUI Application & Automation Engine
+├── app.py   # Main GUI Application & Automation Engine
 ├── MyProject/
 │   └── STD.xlsx          # Excel sheet containing Bug descriptions
 ├── Evidence/
@@ -59,7 +59,7 @@ Install requirements:
 pip install -r requirements.txt
 
 3. Run the Application:
-python process_evidence.py
+python app.py
 
 
 ## 🔗 Portfolios & Links
