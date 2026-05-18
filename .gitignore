@@ -31,4 +31,4 @@ __pycache__/
 # PyInstaller outputs
 build/
 dist/
-*.specs
+*.spec
