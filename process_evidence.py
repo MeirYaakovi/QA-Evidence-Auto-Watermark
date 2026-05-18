@@ -10,8 +10,6 @@ from moviepy import VideoFileClip, TextClip, CompositeVideoClip, concatenate_vid
 ctk.set_appearance_mode("System")  # מסתנכרן עם ה-Dark/Light mode של הווינדוס
 ctk.set_default_color_theme("blue")
 
-# הגדרת ImageMagick
-os.environ["IMAGEMAGICK_BINARY"] = r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"
 
 DEFAULT_LINKEDIN = "www.linkedin.com/in/Your-Name"
 DEFAULT_RAW_FOLDER = "Evidence/Raw"
