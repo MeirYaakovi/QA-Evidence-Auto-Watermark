@@ -28,4 +28,7 @@ __pycache__/
 # קבצי הגדרות מקומיים (אם יש לך כאלו עם סיסמאות)
 .env
 
-
+# PyInstaller outputs
+build/
+dist/
+*.specs
