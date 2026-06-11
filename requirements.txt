@@ -1,4 +1,7 @@
-customtkinter>=5.2.0
-moviepy>=1.0.3
-pandas>=2.0.0
-openpyxl>=3.1.0
+pandas
+openpyxl
+customtkinter
+moviepy
+darkdetect
+packaging
+typing_extensions
